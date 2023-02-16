@@ -9,8 +9,8 @@ const App = () => {
     <div className="App">
       <Components />  
       <ScrolToTop/>
-      <Loader/>  
-    </div>
+{/*       <Loader/>  
+ */}    </div>
   );
 }
 

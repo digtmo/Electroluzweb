@@ -7605,7 +7605,6 @@ input[type=radio]:checked+label:before {
 
 .site-footer .widget_services ul li {
 	margin-bottom: 13px;
-	border-bottom: 1px dashed rgba(74, 74, 74, 0.5);
 	position: relative;
 	padding: 11px 10px 11px 0px;
 	margin-bottom: 0;

@@ -84,7 +84,7 @@ class Navigation extends React.Component {
                             </ul>
                         </li> */}
                         <li>
-                            <NavLink to={"/project-carousel"}>Projects</NavLink>
+                            <NavLink to={"/project-carousel"}>Proyectos</NavLink>
                            {/*  <ul className="sub-menu">
                                 <li><NavLink to={"/project-grid"}>Project Grid</NavLink></li>
                                 <li><NavLink to={"/project-masonary"}>Project Masonry</NavLink></li>

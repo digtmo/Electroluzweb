@@ -42,10 +42,10 @@ class Components extends React.Component {
                 <ScrollToTop />
                 <div className="page-wraper">
                         <Routes>
-                            <Route path="/"  element={<Home/>} />
+                            <Route path="/homepage4"  element={<Home/>} />
                             <Route path='/homepage2' element={<Home2/>} />
                             <Route path='/homepage3' element={<Home3/>} />
-                            <Route path='/homepage4' element={<Home4/>} />
+                            <Route path='/' element={<Home4/>} />
 
                             <Route path='/about' element={<About/>} />
                             <Route path='/services' element={<Services/>} />
